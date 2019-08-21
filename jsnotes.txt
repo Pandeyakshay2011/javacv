@@ -1,0 +1,13 @@
+html is loading into your browser, the values loaded are from the text,textarea,radio,checkbox,select etc.
+
+when html document is loaded in the browser, it becomes a document object.
+
+DOM is a platform and lang.-neutral interface that allows programs to dynamically access and update the content, structure, and style of a document.
+-----------------------------------------------------------------------------------------------------
+document is the root element that represents the html document.
+--------------------------------------------------------------------------------
+methods of document object
+----------------------------------------
+1) write("string"): writes the given string on the document.
+2) getElementById(): returns the element having the given id value.
+3)getElementsByName(): returns all the elements having the given name value.
